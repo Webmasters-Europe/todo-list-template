@@ -4,7 +4,7 @@ Template für die Einsendeaufgabe "ToDo-Liste" der Class "JavaScript OOP"
 </p>
 
 ## ToDo-Liste
-*ToDo-Liste* ist eine kleine Applikation, mit der du State-Management verwendest, um eine Liste und einzelne Listenelemente zu verwalten. Dieses Template ist der Ausgangspunkt, von dem du in die Einsendeaufgabe starten kannst. Tobe dich aus und setzte deiner Kreativität keine Grenzen.
+*ToDo-Liste* ist eine kleine Applikation, mit der du State-Management verwendest, um eine Liste und einzelne Listenelemente zu verwalten. Dieses Template ist der Ausgangspunkt, von dem aus du in die Einsendeaufgabe starten kannst. Hier kannst du dich austoben, deiner Kreativität sind keine Grenzen gesetzt.
 
 ## Demo
 
